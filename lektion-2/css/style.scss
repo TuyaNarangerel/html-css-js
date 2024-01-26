@@ -1,0 +1,16 @@
+@import './scss/cores/colors';
+@import './scss/cores/fonts';
+@import './scss/cores/base';
+ 
+
+//@import './scss/sections/filensnamn';
+
+// sections
+@import 
+
+// pages
+
+.display-name {
+    padding: 25px;
+    @include set-dynamic-colors($color-dark);
+}

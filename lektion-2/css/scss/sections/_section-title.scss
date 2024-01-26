@@ -1,0 +1,12 @@
+.section-title {
+    color: $color-red;
+    @include default-font-headline-3
+
+    h1 {
+        
+    }
+
+    p {
+        color: $color-dark;
+    }
+}
